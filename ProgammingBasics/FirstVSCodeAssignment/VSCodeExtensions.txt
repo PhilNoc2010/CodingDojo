@@ -1,0 +1,4 @@
+IndentRainbow
+IndentRainbowBlocks
+Material Icon Theme
+VSCode_Icons
